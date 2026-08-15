@@ -1,0 +1,4 @@
+interface:
+  display_name: "Autoresearch Trace Collector"
+  short_description: "Collect Codex autoresearch traces as JSONL"
+  default_prompt: "Use $autoresearch-trace-collector to record this research loop as validated JSONL."
